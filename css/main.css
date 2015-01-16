@@ -11,6 +11,10 @@ h2 {
     margin-top: 1.3em;
 }
 
+h2, h3 {
+    margin-bottom: 1em;
+}
+
 h4 {
     margin-top: 1.1em;
 }
