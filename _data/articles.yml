@@ -1,6 +1,38 @@
 -
     title: "Rien à cacher"
-    abstract:
+    abstract: ""
     authors:
         - L. Chemla
-    url: "http://blogs.mediapart.fr/blog/laurent-chemla/060115/rien-cacher"
+    url: http://blogs.mediapart.fr/blog/laurent-chemla/060115/rien-cacher
+
+-
+    title: "Internet, une zone de non-droit ? La bonne blague"
+    abstract:
+        "[La Confiance en l'Economie
+        Numérique](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000801164)
+        (LCEN) est une loi qui impose aux acteurs d'Internet d'agir en retirant
+        tout contenu _manifestement illicite_ signalé (cf. [cette fiche de
+        service-public.fr](http://vosdroits.service-public.fr/particuliers/F32075.xhtml#N100B8)).
+        Cette même loi prévoit également que des sites comme Facebook ou Twitter
+        conservent pendant un an des données relatives à quelqu’un qui a créé ou
+        supprimé un contenu chez eux. Ce dispositif est prévu pour aller vite
+        dans le cadre d’enquêtes des services de renseignement et dans ce
+        cas-là, aucun juge n'ai saisi. Ainsi la loi transforme ces entreprises
+        en police privée.
+
+
+        Depuis 2014, une loi visant à renforcer la lutte contre le terrorisme
+        permet, sans aucun juge, le blocage de sites faisant la promotion du
+        djihad et du terrorisme, ainsi que leur déréférencement (disparition des
+        résultats des moteurs de recherche). Ces blocages sont [inefficaces](http://www.nextinpact.com/news/89802-l-anssi-tres-reservee-sur-mesures-blocage-sites.htm)
+        et simple à contourner. Le risque majeur est le **surblocage**, comme ce qu'il
+        s'est passé [en Australie, courant 2013](http://www.nextinpact.com/news/80342-en-australie-site-bloque-250-000-surbloques.htm).
+
+
+        Le droit français comporte de nombreuses lois pour contrôler Internet. En ajouter
+        de nouvelles semble donc difficile...
+        "
+
+    authors:
+        - A. Fradin
+    url: http://rue89.nouvelobs.com/2015/01/15/internet-zone-non-droit-bonne-blague-257092
