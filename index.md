@@ -43,6 +43,8 @@ mieux comprendre les enjeux et implications.
 
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Se tenir informé
 
-### En suivant les gens qui se battent pour vous
-
-
+<center>
+    <a href="https://www.laquadrature.net/fr/">
+        <img src="/images/logo_laquadrature-net_horiz_moyen.png" class="img-responsive">
+    </a>
+</center>
