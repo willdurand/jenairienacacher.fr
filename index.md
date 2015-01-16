@@ -6,10 +6,10 @@ layout: index
 
 ---
 
-{% for question in site.data.questions %}
-## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> {{ question.question }}
+{% for headline in site.data.headlines %}
+## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> {{ headline.title }}
 
-{{ question.answer }}
+{{ headline.content|markdownify }}
 {% endfor %}
 
 
