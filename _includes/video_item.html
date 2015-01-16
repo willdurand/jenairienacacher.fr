@@ -1,0 +1,18 @@
+{% assign video = include.video %}
+<li class="media">
+    <div class="row">
+        <div class="col-md-8">
+            <h4 class="media-heading">{{ video.title }} - <em>{{ video.authors|join:', ' }}</em></h4>
+            <p class="text-justify">
+                {{ video.abstract }}
+            </p>
+            <p class="text-justify small">
+                Cette vidéo a été enregistrée le {{ video.date_fr }}.
+                {% if video.extra_url %}vous trouverez plus d'informations en suivant <a href="{{ video.extra_url }}">ce lien</a>.{% endif %}
+            </p>
+        </div>
+        <div class="col-md-4 text-center">
+            <iframe src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</li>

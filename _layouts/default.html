@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% if page.title %}
+        <title>{{ page.title }} | {{ site.name }}</title>
+        {% else %}
+        <title>{{ site.name }}</title>
+        {% endif %}
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Muli">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    {{ content }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 text-center">
+                    <hr>
+                    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                        <img alt="Licence Creative Commons" style="border-width:0" src="//i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+                    </a>
+                    <br>
+                    Ce contenu est mis à disposition selon les termes de la
+                    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence
+                    Creative Commons Attribution <br> Partage dans les Mêmes Conditions 4.0 International</a>.
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
