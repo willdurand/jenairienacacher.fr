@@ -8,7 +8,11 @@ p {
 }
 
 h2 {
-    margin-top: 1.2em;
+    margin-top: 1.3em;
+}
+
+h4 {
+    margin-top: 1.1em;
 }
 
 .video iframe {
