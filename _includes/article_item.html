@@ -1,0 +1,4 @@
+{% assign article = include.article %}
+#### <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.authors|join:', ' }}</em>
+
+{{ article.abstract|markdownify }}
