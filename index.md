@@ -9,7 +9,7 @@ layout: index
 {% for question in site.data.questions %}
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> {{ question.question }}
 
-{{ question.answer|markdownify }}
+{{ question.answer }}
 {% endfor %}
 
 
@@ -21,7 +21,7 @@ mieux comprendre les enjeux et implications.
 ### En lisant des articles
 
 {% for article in site.data.articles %}
-#### <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.authors|join:', ' }}</em>
+    {% include article_item.html article=article %}
 {% endfor %}
 
 ### En écoutant des conférences
