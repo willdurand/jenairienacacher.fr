@@ -1,9 +1,12 @@
 {% assign video = include.video %}
 <li class="media">
     <div class="row">
-        <div class="col-md-7">
+        <div class="col-md-12">
             <h4 class="media-heading">• {{ video.title }} - <em>{{ video.authors|join:', ' }}</em></h4>
-
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-7">
             {% if video.abstract %}{{ video.abstract|markdownify }}{% endif %}
 
             <p class="small">
