@@ -35,9 +35,9 @@ mieux comprendre les enjeux et implications.
 ### En lisant des livres
 
 {% for book in site.data.books %}
-#### {{ book.title }} - <em>{{ book.authors|join:', ' }}</em>
+#### • {{ book.title }} - <em>{{ book.authors|join:', ' }}</em>
 
-{{ book.abstract }}
+{% if book.abstract %}{{ book.abstract|markdownify }}{% endif %}
 {% endfor %}
 
 

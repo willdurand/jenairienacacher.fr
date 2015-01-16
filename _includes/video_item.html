@@ -2,13 +2,13 @@
 <li class="media">
     <div class="row">
         <div class="col-md-7">
-            <h4 class="media-heading">{{ video.title }} - <em>{{ video.authors|join:', ' }}</em></h4>
+            <h4 class="media-heading">• {{ video.title }} - <em>{{ video.authors|join:', ' }}</em></h4>
 
-            {{ video.abstract|markdownify }}
+            {% if video.abstract %}{{ video.abstract|markdownify }}{% endif %}
 
             <p class="small">
                 Cette vidéo a été enregistrée le {{ video.date_fr }}.
-                {% if video.extra_url %}vous trouverez plus d'informations en suivant <a href="{{ video.extra_url }}">ce lien</a>.{% endif %}
+                {% if video.extra_url %}Vous trouverez plus d'informations en suivant <a href="{{ video.extra_url }}">ce lien</a>.{% endif %}
             </p>
         </div>
         <div class="col-md-5 text-center video">
