@@ -1,7 +1,7 @@
 {% assign video = include.video %}
 <li class="media">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-7">
             <h4 class="media-heading">{{ video.title }} - <em>{{ video.authors|join:', ' }}</em></h4>
             <p class="text-justify">
                 {{ video.abstract }}
@@ -11,7 +11,7 @@
                 {% if video.extra_url %}vous trouverez plus d'informations en suivant <a href="{{ video.extra_url }}">ce lien</a>.{% endif %}
             </p>
         </div>
-        <div class="col-md-4 text-center">
+        <div class="col-md-5 text-center video">
             <iframe src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>

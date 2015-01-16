@@ -9,3 +9,9 @@ p {
 h2 {
     margin-top: 1.2em;
 }
+
+.video iframe {
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+}
