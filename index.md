@@ -48,3 +48,9 @@ mieux comprendre les enjeux et implications.
         <img src="/images/logo_laquadrature-net_horiz_moyen.png" class="img-responsive">
     </a>
 </center>
+
+## Autres sources
+
+{% for source in site.data.sources %}
+#### • {% if source.url %}[{{ source.title }}]({{ source.url }}){% else %}{{ source.title }}{% endif %} - _{{ source.authors|join:', ' }}_ {% if source.language %}(en {{ source.language }}){% endif %}
+{% endfor %}
