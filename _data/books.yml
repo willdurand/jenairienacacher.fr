@@ -1,4 +1,35 @@
 -
+    title: "1984"
+    authors:
+        - George Orwell
+    abstract: >
+        Dans une société totalitaire, son gouvernement _Big Brother_ surveille
+        ses citoyens et impose une discipline de fer.
+
+
+        La mise en place d'une surveillance massive a été facilitée parce que
+        les citoyens pensaient que, puisqu'ils n'ont rien à se reprocher et
+        encore moins à craindre, alors ils n'ont rien à cacher. Cet argument
+        avait été avancé par [Joseph Goebbels en
+        1933](http://1933key.com/Propaganda-1933/Goebbels-Speech-December-1933).
+
+-
+    title: "Le Procès"
+    authors:
+        - Franz Kafka
+    abstract: >
+        Un homme, Joseph K., est arrêté mais il lui est impossible d'en connaître le motif.
+        Il essaie désespérément de trouver pourquoi, et découvre bientôt une court de justice
+        qui possède un dossier épais sur lui.
+
+
+        Ce livre révèle le problème d'une administration qui utilise vos données personnelles
+        pour établir des faits, en tirer des conclusions et émettre un jugement, tout cela
+        sans que vous puissiez savoir comment vos propres données sont utilisées. Lorsque vous
+        n'avez rien à cacher, toute information sur vous peut être détournée ou croisée avec
+        d'autres faits complètement différents mais qui donneront un tout autre sens.
+
+-
     title: "Matin Brun"
     authors:
         - Franck Pavloff
@@ -6,15 +37,3 @@
         Matin brun est une nouvelle et un apologue français. Vous pouvez la
         lire en suivant [ce
         lien](http://www.ifecosse.org.uk/IMG/pdf/Matin_Brun_texte.pdf) (PDF).
-
--
-    title: "1984"
-    authors:
-        - George Orwell
-    abstract:
-
--
-    title: "Le Procès"
-    authors:
-        - Franz Kafka
-    abstract:
