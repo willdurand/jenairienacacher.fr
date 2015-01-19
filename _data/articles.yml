@@ -1,12 +1,13 @@
 -
     title: "Rien à cacher"
     abstract: >
-        « _Mais que dire à ceux qui n’ont rien à cacher ?_ » Depuis les révélations d'Edward
-        Snowden, nous savons désormais que l’information recherchée n’est pas
-        ce que nous disons, mais à qui nous le disons. Ce que veulent les états, c’est tout savoir
-        de nos réseaux. Nous en venons à une question bien plus précise &#58; pourquoi doit-on protéger
-        ceux avec qui on échange ? Parce qu'aujourd'hui, il ne s'agit plus uniquement de se protéger
-        soi-même mais surtout de protéger les autres.
+        « _Mais que dire à ceux qui n’ont rien à cacher ?_ » Depuis les
+        révélations d'Edward Snowden, nous savons désormais que **l’information
+        recherchée n’est pas ce que nous disons, mais à qui nous le disons**.
+        Ce que veulent les états, c’est tout savoir de nos réseaux. Nous en
+        venons à une question bien plus précise &#58; pourquoi doit-on protéger
+        ceux avec qui on échange ? Parce qu'aujourd'hui, il ne s'agit plus
+        uniquement de se protéger soi-même mais **surtout de protéger les autres**.
     authors:
         - L. Chemla
     url: http://blogs.mediapart.fr/blog/laurent-chemla/060115/rien-cacher
@@ -19,24 +20,26 @@
         (LCEN) est une loi qui impose aux acteurs d'Internet d'agir en retirant
         tout contenu _manifestement illicite_ signalé (cf. [cette fiche de
         service-public.fr](http://vosdroits.service-public.fr/particuliers/F32075.xhtml#N100B8)).
-        Cette même loi prévoit également que des sites comme Facebook ou Twitter
-        conservent pendant un an des données relatives à quelqu’un qui a créé ou
-        supprimé un contenu chez eux. Ce dispositif est prévu pour aller vite
-        dans le cadre d’enquêtes des services de renseignement et dans ce
-        cas-là, aucun juge n'ai saisi. Ainsi la loi transforme ces entreprises
-        en police privée.
+        Cette même loi prévoit également que des sites comme Facebook ou
+        Twitter conservent pendant un an des données relatives à quelqu’un qui
+        a créé ou supprimé un contenu chez eux. Ce dispositif est prévu pour
+        aller vite dans le cadre d’enquêtes des services de renseignement et
+        dans ce cas-là, aucun juge n'ai saisi. Ainsi la loi transforme ces
+        entreprises en police privée.
 
 
         Depuis 2014, une loi visant à renforcer la lutte contre le terrorisme
-        permet, sans aucun juge, le blocage de sites faisant la promotion du
-        djihad et du terrorisme, ainsi que leur déréférencement (disparition des
-        résultats des moteurs de recherche). Ces blocages sont [inefficaces](http://www.nextinpact.com/news/89802-l-anssi-tres-reservee-sur-mesures-blocage-sites.htm)
-        et simple à contourner. Le risque majeur est le **surblocage**, comme ce qu'il
-        s'est passé [en Australie, courant 2013](http://www.nextinpact.com/news/80342-en-australie-site-bloque-250-000-surbloques.htm).
+        permet, **sans aucun juge**, le **blocage de sites faisant la promotion
+        du djihad et du terrorisme**, ainsi que leur déréférencement
+        (disparition des résultats des moteurs de recherche). Ces blocages sont
+        [inefficaces](http://www.nextinpact.com/news/89802-l-anssi-tres-reservee-sur-mesures-blocage-sites.htm)
+        et simple à contourner. Le risque majeur est le **surblocage**, comme
+        ce qu'il s'est passé [en Australie, courant
+        2013](http://www.nextinpact.com/news/80342-en-australie-site-bloque-250-000-surbloques.htm).
 
 
-        Le droit français comporte de nombreuses lois pour contrôler Internet. En ajouter
-        de nouvelles semble donc difficile...
+        **Le droit français comporte de nombreuses lois pour contrôler
+        Internet**. En ajouter de nouvelles semble donc difficile...
     authors:
         - A. Fradin
     url: http://rue89.nouvelobs.com/2015/01/15/internet-zone-non-droit-bonne-blague-257092
