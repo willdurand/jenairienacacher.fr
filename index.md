@@ -43,14 +43,18 @@ mieux comprendre les enjeux et implications.
 
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Se tenir informé
 
-<center>
-    <a href="https://www.laquadrature.net/fr/">
-        <img src="/images/logo_laquadrature-net_horiz_moyen.png" class="img-responsive">
-    </a>
-</center>
+<ul class="centered-list">
+{% for source in site.data.sources %}
+    <li>
+        <a href="{{ source.url }}">
+            <img src="/images/{{ source.image }}" class="img-responsive">
+        </a>
+    </li>
+{% endfor %}
+</ul>
 
 ## Autres sources
 
-{% for source in site.data.sources %}
+{% for source in site.data.autres-sources %}
 #### • {% if source.url %}[{{ source.title }}]({{ source.url }}){% else %}{{ source.title }}{% endif %} - _{{ source.authors|join:', ' }}_ {% if source.language %}(en {{ source.language }}){% endif %}
 {% endfor %}
