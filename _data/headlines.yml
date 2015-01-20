@@ -1,8 +1,4 @@
 -
-    title: "Si vous ne le faites pas pour vous, faites-le pour moi !"
-    content: >
-
--
     title: "Puis-je vous demander le mot de passe de votre ordinateur, de votre
     boîte mail et de votre compte Facebook ? Promis, je ne ferai rien de mal,
     seulement lire."
@@ -18,6 +14,11 @@
         que nous avons tous une [**vie
         privée**](https://fr.wikipedia.org/wiki/Article_8_de_la_Convention_europ%C3%A9enne_des_droits_de_l%27homme),
         une **intimité** que nous ne dévoilons pas à tout bout de champ.
+
+-
+    title: "Si vous ne le faites pas pour vous, faites-le pour moi !"
+    content: >
+        ...
 
 -
     title: "Pourquoi est-ce plus compliqué que ce que l'on pense ?"
