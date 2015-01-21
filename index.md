@@ -12,6 +12,20 @@ layout: index
 {{ headline.content|markdownify }}
 {% endfor %}
 
+## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Mais enfin, ...
+
+### [Pourquoi ne pourrais-je pas mettre ma vie sur les réseaux sociaux ?]()
+
+### [Les caméras de vidéoprotection sont rassurantes, pourquoi se préoccuper de leur multiplication ?]()
+
+### [Je préfère que l'on surveille toutes mes communications plutôt que de risquer une attaque terroriste !]()
+
+### [En quoi la publicité sur Internet est-elle néfaste ?]()
+
+### [Je paie mes achats sur des sites sécurisés, personne n'est au courant à part eux !]()
+
+### [Dropbox, Gmail, etc. c'est quand même très partique !]()
+
 
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Aller plus loin
 
