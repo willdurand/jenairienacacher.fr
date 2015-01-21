@@ -2,10 +2,6 @@
 layout: index
 ---
 
-# Je n'ai rien à cacher. <small>En fait si, et vous également !</small>
-
----
-
 {% for headline in site.data.headlines %}
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> {{ headline.title }}
 
@@ -14,7 +10,9 @@ layout: index
 
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Mais enfin, ...
 
-### [Pourquoi ne pourrais-je pas mettre ma vie sur les réseaux sociaux ?]()
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ### [Les caméras de vidéoprotection sont rassurantes, pourquoi se préoccuper de leur multiplication ?]()
 
