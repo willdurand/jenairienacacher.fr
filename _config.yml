@@ -1,3 +1,4 @@
 name: "Je n'ai rien à cacher."
 
 exclude: [ README.md ]
+permalink: none
