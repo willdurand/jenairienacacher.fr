@@ -19,10 +19,15 @@ soit sur le fond ou la forme, et tout se passe via
 La plupart des contenus est située dans le dossier `_data` :
 
 * `articles.yml` contient les articles
+* `autres-sources.yml` contient des ressources affichées en bas de la page
+  principale et ne sont pas en français (pour la plupart)
 * `books.yml` contient les informations de la section _Livres_
 * `headlines.yml` contient les informations en haut de page
+* `sources.yml` contient les informations de la section _Se tenir informé_
 * `videos.yml` regroupe les vidéos et leurs résumés
 
+Le dossier `_posts/` contient les questions ouvertes de la section _Mais,
+enfin..._.
 
 Installation
 ------------
