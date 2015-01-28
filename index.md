@@ -11,7 +11,7 @@ layout: index
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Mais enfin, ...
 
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
+### • [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ## <i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Aller plus loin
