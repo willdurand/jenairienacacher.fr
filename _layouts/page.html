@@ -10,10 +10,15 @@ layout: default
 
     {{ content }}
 
-    {% if page.articles %}
-        <h3>Articles sur le sujet</h3>
-        {% for article in page.articles %}
-            {% include article_item.html article=article %}
+    {% if page.resources %}
+        <h2>Ressources supplémentaires</h2>
+        {% for resource in page.resources %}
+            {% include article_item.html article=resource %}
         {% endfor %}
     {% endif %}
+
+    <hr>
+    <p class="text-center no-margin">
+        <a href="/#-mais-enfin,-..."><i class="glyphicon glyphicon-home" aria-hidden="true"></i> Retour vers la page principale</a>
+    </p>
 </div>
