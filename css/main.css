@@ -1,9 +1,9 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.6em;
 }
 
 p {
-    font-size: 1.1em;
     text-align: justify;
 }
 
@@ -39,4 +39,8 @@ h4 {
 .centered-list li {
     margin: 0 auto 1.3em auto;
     padding: 0;
+}
+
+.no-margin {
+    margin: 0;
 }
