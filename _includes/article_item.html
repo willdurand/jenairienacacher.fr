@@ -1,4 +1,5 @@
 {% assign article = include.article %}
-<h4>• <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.authors|join:', ' }}</em></h4>
+<h4>• <a href="{{ article.url }}">{{ article.title }}</a> - <em>{{ article.authors|join:', ' }}</em>{% if article.language %} (en {{ article.language }}){% endif %}</h4>
+
 
 {% if article.abstract %}{{ article.abstract|markdownify }}{% endif %}

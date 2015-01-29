@@ -20,6 +20,7 @@ resources:
         url: https://www.ted.com/talks/glenn_greenwald_why_privacy_matters#t-405043
         authors:
             - Glenn Greenwald
+        language: Anglais
 
     -
         title: "Maîtrisez les réglages « vie privée » de votre smartphone"

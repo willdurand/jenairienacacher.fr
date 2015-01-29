@@ -57,7 +57,7 @@ mieux comprendre les enjeux et implications.
 ## Autres sources
 
 {% for source in site.data.autres-sources %}
-#### • {% if source.url %}[{{ source.title }}]({{ source.url }}){% else %}{{ source.title }}{% endif %} - _{{ source.authors|join:', ' }}_ {% if source.language %}(en {{ source.language }}){% endif %}
+#### • {% if source.url %}[{{ source.title }}]({{ source.url }}){% else %}{{ source.title }}{% endif %} - _{{ source.authors|join:', ' }}_{% if source.language %} (en {{ source.language }}){% endif %}
 {% endfor %}
 
 <hr>
