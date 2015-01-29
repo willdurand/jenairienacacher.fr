@@ -144,8 +144,8 @@ indique que :
 - les installations de vidéoprotection **coûtent chères**
 - les installations de vidéoprotection ne sont **pas toujours conforme à la loi**
 
-A titre d'information le terme _vidéosurveillance_ a été remplacé par le terme
-_vidéoprotection_ dans la loi via la [LOPPSI II en
+A titre d'information **le terme _vidéosurveillance_ a été remplacé par le
+terme _vidéoprotection_** dans la loi via la [LOPPSI II en
 2010](http://fr.wikipedia.org/wiki/Loi_du_14_mars_2011_d%27orientation_et_de_programmation_pour_la_performance_de_la_s%C3%A9curit%C3%A9_int%C3%A9rieure).
 
 La généralisation des systèmes de surveillance pose également le problème de
