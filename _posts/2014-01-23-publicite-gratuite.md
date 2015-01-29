@@ -47,7 +47,7 @@ seules données de ses utilisateurs pour afficher des publicités sur ses pages
 de résultats.
 
 Il existe bien d'autres exemples de régies publicitaires fonctionnant de
-manière analogues. Vous pouvez les cartographier très simplement en installant
+manière analogue. Vous pouvez les cartographier très simplement en installant
 l'extension <a href="https://www.ghostery.com/fr/">Ghostery</a> dans votre
 navigateur web préféré.
 
