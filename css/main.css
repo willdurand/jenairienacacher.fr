@@ -49,5 +49,8 @@ h4 {
     font-size: 3em;
     text-align: center;
     margin: 0 auto 1em auto;
+}
+
+@media (min-device-width: 640px) {
     width: 80%;
 }
