@@ -59,3 +59,9 @@ mieux comprendre les enjeux et implications.
 {% for source in site.data.autres-sources %}
 #### • {% if source.url %}[{{ source.title }}]({{ source.url }}){% else %}{{ source.title }}{% endif %} - _{{ source.authors|join:', ' }}_ {% if source.language %}(en {{ source.language }}){% endif %}
 {% endfor %}
+
+<hr>
+
+<p class="text-center">
+    Email : <a href="mailto:contact@jenairienacacher.fr">contact@jenairienacacher.fr</a>  — Twitter : <a href="https://twitter.com/rienacacher_fr">@rienacacher_fr</a>
+</p>
