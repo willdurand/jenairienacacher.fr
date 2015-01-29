@@ -19,7 +19,7 @@ l'utilisateur alors qu'une version avec des fonctionnalités sera payante.
 Générales d'Utilisation** (CGU) qui, pour des raisons mercantiles ou
 éventuellement juridiques, peuvent déposséder partiellement ou totalement
 l'utilisateur des données qu'il transmet au dit service. Il est dont important
-de toujours <a href="https://tosdr.org/">comprendre ces GCU</a>.
+de toujours <a href="https://tosdr.org/">comprendre ces CGU</a>.
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Profilage</h2>
 
@@ -67,6 +67,6 @@ faire l'objet de toute notre attention.
 - Prendre le temps de lire les conditions générales d'utilisation, des outils
   comme [Terms of Service Didn't Read](https://tosdr.org/) peuvent vous aider
 - Préférer [Firefox](https://www.mozilla.org/fr/firefox/new/) à Google Chrome
-- S'intéresser de près aux systèmes de paiemnt alternatifs comme
+- S'intéresser de près aux systèmes de paiement alternatifs comme
   [Bitcoin](http://fr.wikipedia.org/wiki/Bitcoin) (attention, ces moyens de
   paiement ne sont pas encore fiabilisés à l'heure actuelle)

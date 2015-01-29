@@ -63,7 +63,7 @@ gérée intégralement par [THALES](https://fr.wikipedia.org/wiki/Thales). Chaqu
 nouvelle écoute fait l'objet d'une demande de la part d'un Officier de Police
 Judiciaire. Les écoutes liées à chaque affaire sont étanches entre elles et
 protégées par un certificat qui garanti l'accès aux seuls membres de la justice
-concernées. **L'aspect centralisé de cette plateforme fait pesé un risque de
+concernées. **L'aspect centralisé de cette plateforme fait peser un risque de
 fuite d'écoutes** (écoutes ayant abouties ou non à une condamnation) en cas de
 piratage.
 
