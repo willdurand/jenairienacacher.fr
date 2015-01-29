@@ -14,7 +14,10 @@ Vous pouvez contribuer en [vous
 exprimant](https://github.com/willdurand/jenairienacacher.fr/issues) : idées,
 avis, critiques, tout est bon à prendre. Tout le monde peut contribuer, que ce
 soit sur le fond ou la forme, et tout se passe via
-[GitHub](https://github.com/willdurand/jenairienacacher.fr).
+[GitHub](https://github.com/willdurand/jenairienacacher.fr). Si cela ne vous
+convient pas, n'hésitez pas à nous envoyer un email à
+[contact@jenairienacacher.fr](mailto:contact@jenairienacacher.fr). Votre retour
+est important !
 
 La plupart des contenus est située dans le dossier `_data` :
 
