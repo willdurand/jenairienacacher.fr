@@ -52,5 +52,7 @@ h4 {
 }
 
 @media (min-device-width: 640px) {
-    width: 80%;
+    .title {
+        width: 80%;
+    }
 }
