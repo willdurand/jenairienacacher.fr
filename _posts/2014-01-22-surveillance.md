@@ -141,8 +141,8 @@ indique que :
 - l'**effet dissuasif** des caméras de vidéoprotection est **faible** voire
   contre-productif
 - les **faits élucidés** grâce à des caméras de vidéoprotection sont **marginaux**
-- les installations de vidéoprotection **coûtent chères**
-- les installations de vidéoprotection ne sont **pas toujours conforme à la loi**
+- les installations de vidéoprotection **coûtent cher**
+- les installations de vidéoprotection ne sont **pas toujours conformes à la loi**
 
 A titre d'information **le terme _vidéosurveillance_ a été remplacé par le
 terme _vidéoprotection_** dans la loi via la [LOPPSI II en
