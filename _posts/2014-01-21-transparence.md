@@ -40,7 +40,7 @@ disparaître**.
 
 Il convient de distinguer deux aspects :
 
-- l'erradication du contenu lui même peut s'avérer difficile dans la mesure où
+- l'éradication du contenu lui même peut s'avérer difficile dans la mesure où
   ce contenu peut avoir été **dupliqué** à plusieurs emplacements (par la
   [Wayback Machine](http://archive.org/web/) par exemple). Cette duplication,
   qui peut devenir virale, rend la suppression du contenu impossible et on
@@ -61,7 +61,7 @@ Il convient de distinguer deux aspects :
 
 Par définition l'instantanéité ne permet pas de prendre le temps de la
 réflexion lorsque l'on publie un contenu. Une photo peu avantageuse ou une
-vidéo de fin de soirée embarassante publiée sur les réseaux sociaux posent les
+vidéo de fin de soirée embarrassante publiée sur les réseaux sociaux posent les
 mêmes problèmes qu'évoqués ci-dessus. L'**impression de « confidentialité »**
 ou de « public restreint contrôlé » sont soumises à plusieurs facteurs :
 
@@ -100,8 +100,8 @@ exemples :
   de ses données peuvent vous trahir
 
 - Si votre smartphone relève automatiquement votre courrier Gmail et que la
-  géolocalistaion est activée (ce qui est souvent le cas par défaut), vous vous
-  aperçevrez que cette <a
+  géolocalisation est activée (ce qui est souvent le cas par défaut), vous vous
+  apercevrez que cette <a
   href="https://maps.google.com/locationhistory/b/0">page</a> présente **toutes
   les positions où votre téléphone s'est connecté à Gmail**, ce qui représente
   en général tous vos déplacements. Les montreriez-vous à votre employeur ?

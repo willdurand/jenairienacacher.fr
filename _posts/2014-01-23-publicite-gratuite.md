@@ -37,7 +37,7 @@ de Facebook</a>.
 Dans le cas de Google, les recherches web, le contenu des mails pour les
 utilisateurs de Gmail et plus généralement toute donnée transitant par un
 service Google, viennent s'ajouter aux données personnelles et aux éventuels «
-+1 » disitillés sur Google+. Il est à noter qu'avec
++1 » distillés sur Google+. Il est à noter qu'avec
 <a href="http://fr.wikipedia.org/wiki/Google_Analytics">Google Analytics</a>,
 Google possède une **capacité d'analyse comportementale** de tous les sites
 utilisants sa solution. Avec
@@ -56,7 +56,7 @@ navigateur web préféré.
 Les **données bancaires** permettent d'en savoir long sur nous, les algorithmes
 de [BigData](https://fr.wikipedia.org/wiki/Big_data) sont capables de
 **détecter** de manière tout à fait efficace une grossesse, un changement de
-situation professionelle, un décès ou tout autre événement de la vie.
+situation professionnelle, un décès ou tout autre événement de la vie.
 <a href="http://www.lesechos.fr/idees-debats/cercle/cercle-77046-la-tentation-des-banques-dutiliser-nos-donnees-a-caractere-personnel-1017612.php">L'accès
 commercial est actuellement soumis à tous les fantasmes avec l'avènement du
 BigData</a> et le cadre légal encadrant l'exploitation de ces données doit

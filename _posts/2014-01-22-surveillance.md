@@ -118,7 +118,7 @@ avorté
 [SAFARI](http://fr.wikipedia.org/wiki/Syst%C3%A8me_automatis%C3%A9_pour_les_fichiers_administratifs_et_le_r%C3%A9pertoire_des_individus)
 qui consistait en l'interconnexion des fichiers nominatifs de l'administration
 française, notamment par le biais du numéro INSEE. Suite à un article de
-Pihlippe Boucher dans _Le Monde_ intitulé « **SAFARI ou la chasse aux
+Philippe Boucher dans _Le Monde_ intitulé « **SAFARI ou la chasse aux
 français** », le projet a été abandonné et les [lois informatique et
 libertés](http://fr.wikipedia.org/wiki/Loi_informatique_et_libert%C3%A9s) ont
 été créées. La [Commission Nationale de l'Informatique et des
