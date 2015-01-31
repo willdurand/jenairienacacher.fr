@@ -50,8 +50,8 @@ de résultats.
 
 Il existe bien d'autres exemples de régies publicitaires fonctionnant de
 manière analogue. Vous pouvez les cartographier très simplement en installant
-l'extension <a href="https://www.ghostery.com/fr/">Ghostery</a> dans votre
-navigateur web préféré.
+l'extension <a href="https://www.eff.org/privacybadger">Privacy Badger</a> 
+dans votre navigateur web préféré.
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Les données de paiement</h2>
 
