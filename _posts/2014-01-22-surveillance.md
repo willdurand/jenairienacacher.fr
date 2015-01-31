@@ -34,6 +34,11 @@ resources:
             - Frédéric Coste
 
     -
+        title: "Vidéosurveillance - Questions-Réponses"
+        url: http://www.cnil.fr/les-themes/videosurveillance/questions-reponses/
+        authors:
+            - CNIL
+    -
         title: "Videosurveillance - Videoprotection - Chronologie"
         url: http://www.videosurveillance-videoprotection.fr/chronologie
         authors:
