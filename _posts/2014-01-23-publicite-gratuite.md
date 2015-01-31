@@ -18,8 +18,10 @@ l'utilisateur alors qu'une version avec des fonctionnalités sera payante.
 **L'utilisation d'un service tiers fait toujours l'objet de Conditions
 Générales d'Utilisation** (CGU) qui, pour des raisons mercantiles ou
 éventuellement juridiques, peuvent déposséder partiellement ou totalement
-l'utilisateur des données qu'il transmet au dit service. Il est dont important
-de toujours <a href="https://tosdr.org/">comprendre ces CGU</a>.
+l'utilisateur des données qu'il transmet au dit service. Il est donc important
+de toujours comprendre ces CGU. Hélas elles sont souvent très longues à lire, 
+une extension comme <a href="https://tosdr.org/">Terms of Service Didn't Read</a>, 
+bien qu'anglophone, peut vous aider à vous faire une idée rapide..
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Profilage</h2>
 
