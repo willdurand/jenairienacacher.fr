@@ -51,6 +51,11 @@ h4 {
     margin: 0 auto 1em auto;
 }
 
+.floating-image {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
 @media (min-device-width: 640px) {
     .title {
         width: 80%;
