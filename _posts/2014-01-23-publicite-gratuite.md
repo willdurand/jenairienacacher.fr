@@ -19,8 +19,8 @@ l'utilisateur alors qu'une version avec des fonctionnalités sera payante.
 Générales d'Utilisation** (CGU) qui, pour des raisons mercantiles ou
 éventuellement juridiques, peuvent déposséder partiellement ou totalement
 l'utilisateur des données qu'il transmet au dit service. Il est donc important
-de toujours comprendre ces CGU. Hélas elles sont souvent très longues à lire, 
-une extension comme <a href="https://tosdr.org/">Terms of Service Didn't Read</a>, 
+de toujours comprendre ces CGU. Hélas elles sont souvent très longues à lire,
+une extension comme <a href="https://tosdr.org/">Terms of Service Didn't Read</a>,
 bien qu'anglophone, peut vous aider à vous faire une idée rapide..
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Profilage</h2>
@@ -50,8 +50,10 @@ de résultats.
 
 Il existe bien d'autres exemples de régies publicitaires fonctionnant de
 manière analogue. Vous pouvez les cartographier très simplement en installant
-l'extension <a href="https://www.eff.org/privacybadger">Privacy Badger</a> 
-dans votre navigateur web préféré.
+l'extension <a href="https://www.eff.org/privacybadger">Privacy Badger</a> dans
+votre navigateur web préféré. Un conseil, [apprenez à gérer votre vie privée
+intelligemment](https://www.mozilla.org/fr/privacy/tips/), ce n'est jamais trop
+tard.
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Les données de paiement</h2>
 
