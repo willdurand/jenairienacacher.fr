@@ -74,6 +74,8 @@ piratage.
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Les écoutes des renseignements</h2>
 
+<img src="/images/obama-prism-raccroche.jpg" class="pull-right img-responsive floating-image img-thumbnail">
+
 Les services de renseignements ont toujours existé, dans tous les pays. Si ce
 type d'écoutes existent depuis longtemps, il n'a jamais été aussi simple de
 collecter et d'exploiter des données depuis l'avènement du tout numérique. En
@@ -151,7 +153,7 @@ indique que :
 
 A titre d'information **le terme _vidéosurveillance_ a été remplacé par le
 terme [novlangue](http://fr.wikipedia.org/wiki/Novlangue) _vidéoprotection_** dans la loi depuis la [LOPPSI II en
- 2010](http://fr.wikipedia.org/wiki/Loi_du_14_mars_2011_d%27orientation_et_de_programmation_pour_la_performance_de_la_s%C3%A9curit%C3%A9_int%C3%A9rieure). Il est important de comprendre que ces deux termes désignent 
+ 2010](http://fr.wikipedia.org/wiki/Loi_du_14_mars_2011_d%27orientation_et_de_programmation_pour_la_performance_de_la_s%C3%A9curit%C3%A9_int%C3%A9rieure). Il est important de comprendre que ces deux termes désignent
  un seul et même type dispositif.
 
 La généralisation des systèmes de surveillance pose également le problème de
