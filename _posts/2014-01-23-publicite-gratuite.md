@@ -5,6 +5,8 @@ title: "Pourquoi la publicité serait-elle dangereuse ? Souvent elle me simplifi
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Si c'est gratuit, c'est toi le produit ! (Freemium)</h2>
 
+<img src="/images/pigs-and-the-free-model.jpg" class="pull-right img-responsive floating-image img-thumbnail">
+
 Contrairement aux apparences, peu de choses sont réellement gratuites sur
 Internet, **le moindre service** (messagerie électronique, hébergement de sites
 web, stockage de données, ...) **a un coût** et possède, de fait, un moyen à
@@ -21,7 +23,12 @@ Générales d'Utilisation** (CGU) qui, pour des raisons mercantiles ou
 l'utilisateur des données qu'il transmet au dit service. Il est donc important
 de toujours comprendre ces CGU. Hélas elles sont souvent très longues à lire,
 une extension comme <a href="https://tosdr.org/">Terms of Service Didn't Read</a>,
-bien qu'anglophone, peut vous aider à vous faire une idée rapide..
+bien qu'anglophone, peut vous aider à vous faire une idée rapide.
+
+_[Deux cochons discutant du modèle « gratuit
+»](http://standblog.org/blog/post/2015/01/30/Flicage-brouillon-Partie-2-chapitre-15-le-piege-de-la-gratuite)
+(utilisé sous licence CC-BY, dérivé de [The "Free" Model - Geek &
+Poke](http://geek-and-poke.com/geekandpoke/2010/12/21/the-free-model.html) )_
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Profilage</h2>
 
