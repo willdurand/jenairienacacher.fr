@@ -29,6 +29,11 @@ h4 {
     height: 200px;
 }
 
+.youtube iframe {
+    max-width: 560px;
+    height: 315px;
+}
+
 .centered-list {
     list-style-type: none;
     text-align: center;
@@ -59,5 +64,9 @@ h4 {
 @media (min-device-width: 640px) {
     .title {
         width: 80%;
+    }
+
+    .youtube iframe {
+        width: 100%;
     }
 }

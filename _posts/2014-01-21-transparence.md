@@ -121,8 +121,8 @@ et réponse en vidéo :
 <br><br>
 
 <div class="row">
-    <div class="col-md-12 text-center">
-        <iframe width="560" height="315" src="//www.youtube.com/embed/E1htQOYEaDU" frameborder="0" allowfullscreen></iframe>
+    <div class="col-md-12 text-center youtube">
+        <iframe src="//www.youtube.com/embed/E1htQOYEaDU" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 
