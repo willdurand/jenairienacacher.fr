@@ -31,6 +31,8 @@ resources:
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Internet n'oublie jamais</h2>
 
+<img src="/images/facebook-employeur.jpg" class="pull-right img-responsive floating-image img-thumbnail">
+
 Un vieil article de blog, une erreur judiciaire ou toute autre fausse
 information mentionnant votre nom ou des données personnelles et une recherche
 sur votre identité dans les moteurs de recherche peut vite devenir gênant
