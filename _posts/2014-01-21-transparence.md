@@ -109,6 +109,23 @@ exemples :
   href="https://history.google.com/history/">historique de vos recherches
   Google</a> ou de vos recherches Facebook
 
+<h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Ne facilitez pas le vol d'identité</h2>
+
+Publiez quelques données personnelles par accident et vous ferez le bonheur
+d'un bandit ! Si vous ne faites pas attention à vos données qui, comme nous
+venons de le voir, vous représentent, vous augmentez vos chances d'être victime
+d'un vol de votre identité.
+
+Paniqueriez-vous si des escrocs s'emparaient de votre vie sur le web ? Aperçu
+et réponse en vidéo :
+<br><br>
+
+<div class="row">
+    <div class="col-md-12 text-center">
+        <iframe width="560" height="315" src="//www.youtube.com/embed/E1htQOYEaDU" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Que faire ?</h2>
 
 - Réfléchir
