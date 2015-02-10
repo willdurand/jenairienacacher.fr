@@ -18,6 +18,7 @@
 -
     title: "Si vous ne le faites pas pour vous, faites-le pour moi !"
     content: >
+        <a class="label label-info" href="/surveillance.html">surveillance</a>
         Depuis des années, les agences gouvernementales et autres services
         secrets s'affairent à créer des **graphes sociaux**, représentants les
         **liens entre individus**. En effet, une personne peut devenir
@@ -26,7 +27,6 @@
         religieuses) ne sont plus en phase avec le gouvernement en place.
 
 
-        <a class="label label-info" href="/surveillance.html">surveillance</a>
         Lorsqu'une personne est placée sous "surveillance", son entourage
         l'est également, ce qui se traduit par une **surveillance des personnes à
         deux voire trois degrés**. En prenant en considération la [théorie
@@ -36,6 +36,7 @@
         insu, être surveillé, même si vous n'avez rien à vous reprocher.
 
 
+        <a class="label label-warning" href="/transparence.html">transparence</a>
         Si vous n'avez rien à cacher, vos proches ont probablement un avis
         différent, et vous les mettez soit en danger, soit dans une position
         délicate si ce que vous n'avez pas à cacher de votre côté se retourne
@@ -56,6 +57,7 @@
         effectivement se produire.
 
 
+        <a class="label label-warning" href="/transparence.html">transparence</a>
         Pour terminer cette introduction, vous n'êtes pas à l'abri d'abus comme
         [ces employés victimes de l'utilisation abusive de la géolocalisation
         par leurs
