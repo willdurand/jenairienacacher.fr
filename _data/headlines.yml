@@ -18,6 +18,7 @@
 -
     title: "Si vous ne le faites pas pour vous, faites-le pour moi !"
     content: >
+        <a href="http://internetetmoi.fr/blog/474-degres-de-separation/"><img src="/images/degres-sep.png" class="pull-right img-responsive floating-image img-thumbnail"></a>
         <a class="label label-info" href="/surveillance.html">surveillance</a>
         Depuis des années, les agences gouvernementales et autres services
         secrets s'affairent à créer des **graphes sociaux**, représentants les
@@ -31,9 +32,14 @@
         l'est également, ce qui se traduit par une **surveillance des personnes à
         deux voire trois degrés**. En prenant en considération la [théorie
         des six degrés de
-        séparation](https://fr.wikipedia.org/wiki/Six_degr%C3%A9s_de_s%C3%A9paration),
-        cela représente beaucoup, beaucoup de monde. Vous pouvez donc, à votre
-        insu, être surveillé, même si vous n'avez rien à vous reprocher.
+        séparation](https://fr.wikipedia.org/wiki/Six_degr%C3%A9s_de_s%C3%A9paration)
+        (voir également l'[étude du petit
+        monde](https://fr.wikipedia.org/wiki/%C3%89tude_du_petit_monde) datant
+        de 1967), cela représente beaucoup, beaucoup de monde. Vous pouvez
+        donc, à votre insu, être surveillé, même si vous n'avez rien à vous
+        reprocher. En 2011, l'Université de Milan a montré qu’en moyenne un
+        membre du réseau social Facebook est séparé de tout autre membre par
+        4,74 relations.
 
 
         <a class="label label-warning" href="/transparence.html">transparence</a>
