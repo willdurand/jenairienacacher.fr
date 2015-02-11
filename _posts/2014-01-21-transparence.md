@@ -111,6 +111,14 @@ exemples :
   href="https://history.google.com/history/">historique de vos recherches
   Google</a> ou de vos recherches Facebook
 
+<p class="text-center">
+    <br>
+    <a href="https://maps.google.com/locationhistory/b/0" target="_blank" class="btn btn-lg btn-danger">Visualiser vos déplacements avec Google</a>
+</p>
+<p class="text-center">
+    <a href="https://history.google.com/history/" target="_blank" class="btn btn-lg btn-danger">Visualiser votre historique de recherches</a>
+</p>
+
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Ne facilitez pas le vol d'identité</h2>
 
 Publiez quelques données personnelles par accident et vous ferez le bonheur
