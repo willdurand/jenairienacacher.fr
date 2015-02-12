@@ -12,7 +12,6 @@ resources:
     -
         title: "Little Brother"
         url: http://craphound.com/littlebrother/download/
-        language: Anglais
         authors:
             - Cory Doctorow
 
