@@ -8,9 +8,11 @@ resources:
         url: http://fr.wikipedia.org/wiki/1984_%28roman%29
         authors:
             - George Orwell
+
     -
         title: "Little Brother"
         url: http://craphound.com/littlebrother/download/
+        language: Anglais
         authors:
             - Cory Doctorow
 
