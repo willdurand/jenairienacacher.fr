@@ -8,6 +8,11 @@ resources:
         url: http://fr.wikipedia.org/wiki/1984_%28roman%29
         authors:
             - George Orwell
+    -
+        title: "Little Brother"
+        url: http://craphound.com/littlebrother/download/
+        authors:
+            - Cory Doctorow
 
     -
         title: "La PNIJ, \"Big Brother\" version française"
@@ -67,7 +72,7 @@ centralisées chez une seule et même plateforme : la
 gérée intégralement par [THALES](https://fr.wikipedia.org/wiki/Thales). Chaque
 nouvelle écoute fait l'objet d'une demande de la part d'un Officier de Police
 Judiciaire. Les écoutes liées à chaque affaire sont étanches entre elles et
-protégées par un certificat qui garanti l'accès aux seuls membres de la justice
+protégées par un certificat qui garantit l'accès aux seuls membres de la justice
 concernées. **L'aspect centralisé de cette plateforme fait peser un risque de
 fuite d'écoutes** (écoutes ayant abouties ou non à une condamnation) en cas de
 piratage.
