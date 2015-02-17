@@ -107,9 +107,8 @@ exemples :
   href="https://maps.google.com/locationhistory/b/0">page</a> présente **toutes
   les positions où votre téléphone s'est connecté à Gmail**, ce qui représente
   en général tous vos déplacements. Les montreriez-vous à votre employeur ?
-  Votre famille ? Les mêmes questions se posent pour l'<a
-  href="https://history.google.com/history/">historique de vos recherches
-  Google</a> ou de vos recherches Facebook
+  Votre famille ? Les mêmes questions se posent pour l'<a href="https://history.google.com/history/">historique de vos recherches Google</a>,
+  <a href="https://www.youtube.com/feed/history/search_history">celui de Youtube</a> ou même de vos recherches Facebook
 
 <p class="text-center">
     <br>
@@ -117,6 +116,9 @@ exemples :
 </p>
 <p class="text-center">
     <a href="https://history.google.com/history/" target="_blank" class="btn btn-lg btn-danger">Votre historique de recherche</a>
+</p>
+<p class="text-center">
+    <a href="https://www.youtube.com/feed/history/search_history" target="_blank" class="btn btn-lg btn-danger">Votre historique Youtube</a>
 </p>
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Ne facilitez pas le vol d'identité</h2>
