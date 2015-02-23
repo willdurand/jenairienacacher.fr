@@ -81,3 +81,4 @@ faire l'objet de toute notre attention.
 - S'intéresser de près aux systèmes de paiement alternatifs comme
   [Bitcoin](http://fr.wikipedia.org/wiki/Bitcoin) (attention, ces moyens de
   paiement ne sont pas encore fiabilisés à l'heure actuelle)
+- Et [si, on peut vivre sans Google !](http://www.reporterre.net/Mais-si-on-peut-vivre-sans-Google)
