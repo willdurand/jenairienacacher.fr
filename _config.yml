@@ -2,6 +2,3 @@ name: "Je n'ai rien à cacher."
 
 exclude: [ README.md ]
 permalink: none
-markdown: redcarpet
-redcarpet:
-    extensions: ["with_toc_data"]
