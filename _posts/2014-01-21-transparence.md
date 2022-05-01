@@ -10,8 +10,8 @@ resources:
             - Yves Eudes
 
     -
-        title: "Partager votre soirée... ou pas. A vous de faire les bons choix !"
-        url: https://www.cnil.fr/linstitution/actualite/article/article/partager-votre-soiree-ou-pas-a-vous-de-faire-les-bons-choix/
+        title: "Partager votre soirée... ou pas. A vous de faire les bons choix ! (archive)"
+        url: https://web.archive.org/web/20150728004317/http://www.cnil.fr/linstitution/actualite/article/article/partager-votre-soiree-ou-pas-a-vous-de-faire-les-bons-choix/
         authors:
             - CNIL
 
@@ -23,8 +23,8 @@ resources:
         language: Anglais
 
     -
-        title: "Maîtrisez les réglages « vie privée » de votre smartphone"
-        url: http://www.cnil.fr/documentation/fiches-pratiques/fiche/article/maitrisez-les-reglages-vie-privee-de-votre-smartphone/
+        title: "Maîtrisez les réglages « vie privée » de votre smartphone (archive)"
+        url: https://web.archive.org/web/20150906012123/http://www.cnil.fr/documentation/fiches-pratiques/fiche/article/maitrisez-les-reglages-vie-privee-de-votre-smartphone/?tx_ttnews%5BbackPid%5D=91&cHash=b6b2edb41d5a99049b6b677a92f24445
         authors:
             - CNIL
 ---
@@ -44,18 +44,18 @@ Il convient de distinguer deux aspects :
 
 - l'éradication du contenu lui même peut s'avérer difficile dans la mesure où
   ce contenu peut avoir été **dupliqué** à plusieurs emplacements (par la
-  [Wayback Machine](http://archive.org/web/) par exemple). Cette duplication,
+  [Wayback Machine](https://archive.org/web/) par exemple). Cette duplication,
   qui peut devenir virale, rend la suppression du contenu impossible et on
   parle généralement d'[effet
-  Streisand](http://fr.wikipedia.org/wiki/Effet_Streisand)
+  Streisand](https://fr.wikipedia.org/wiki/Effet_Streisand)
 
 - le déréférencement du contenu dans les moteurs de recherche a fait l'objet
   d'un [arrêt rendu par la Cour de Justice de l’Union
-  Européenne](http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070fr.pdf).
+  Européenne](https://curia.europa.eu/jcms/upload/docs/application/pdf/2014-05/cp140070fr.pdf).
   En conséquence, Google a mis en ligne [un formulaire permettant aux citoyens
   européens de demander la suppression de résultats de recherche comportant
   leurs données personnelles et qu’ils ne souhaitent pas voir apparaître dans
-  Google](https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=fr).
+  Google](https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=rtbf).
   Cependant, **cette décision ne concerne que Google et pas les autres moteurs de
   recherche**
 
@@ -79,15 +79,14 @@ ou de « public restreint contrôlé » sont soumises à plusieurs facteurs :
 > "S'il y a quelque chose que vous faites et que personne ne doit savoir,
 > peut-être devriez vous commencer par ne pas le faire." &mdash; [_Eric Schmidt,
 > PDG de Google, The Register, 7 décembre
-> 2009_](http://www.theregister.co.uk/2009/12/07/schmidt_on_privacy/)
+> 2009_](https://www.theregister.co.uk/2009/12/07/schmidt_on_privacy/)
 
 <p></p>
 
 > "Les gens sont désormais à l'aise avec l'idée de partager plus d'informations
 > différentes, de manière plus ouverte et avec plus d'internautes. [...] La
 > norme sociale a évolué." &mdash; [_Mark Zuckerberg, PDG de Facebook, USTREAM,
-> 10 janvier
-> 2010_](http://www.lemonde.fr/technologies/article/2010/01/11/pour-le-fondateur-de-facebook-la-protection-de-la-vie-privee-n-est-plus-la-norme_1289944_651865.html)
+> 10 janvier 2010_](https://www.lemonde.fr/technologies/article/2010/01/11/pour-le-fondateur-de-facebook-la-protection-de-la-vie-privee-n-est-plus-la-norme_1289944_651865.html)
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Vos données en racontent plus long sur vous que ce que vous ne pensez</h2>
 
