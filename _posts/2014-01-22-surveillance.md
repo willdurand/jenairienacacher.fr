@@ -144,9 +144,7 @@ croître](https://fr.wikipedia.org/wiki/Fichage_en_France).
 
 <h2><i class="glyphicon glyphicon-hand-right" aria-hidden="true"></i> Les caméras de vidéoprotection</h2>
 
-[Un rapport de la cours des
-comptes](http://bugbrother.blog.lemonde.fr/2011/07/14/la-cour-des-comptes-enterre-la-videosurveillance/)
-indique que :
+[Un rapport de la cour des comptes][cour-des-comptes] indique que :
 
 - l'**effet dissuasif** des caméras de vidéoprotection est **faible** voire
   contre-productif
@@ -181,3 +179,4 @@ l'[exploitation qui peut être faite d'une telle masse de données][prevoir-crim
 [hacking-citoyen]: https://web.archive.org/web/20161116093448/http://www.siliconmaniacs.org/%C2%AB-hacking-citoyen-%C2%BB-un-kit-citoyen-anti-surveillance/
 [m4psnet]: https://web.archive.org/web/20110628004241/http://h4cker.net/blog/2009/05/m4psnet-une-cartographie-de-la-videosurveillance/
 [prevoir-crimes]: https://web.archive.org/web/20160822000039/http://ecs-digital.com/general/prevoir-crimes-big-data-blue-crush/
+[cour-des-comptes]: https://www.lemonde.fr/blog/bugbrother/2011/07/14/la-cour-des-comptes-enterre-la-videosurveillance/
