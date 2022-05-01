@@ -11,7 +11,7 @@ resources:
 
     -
         title: "Partager votre soirée... ou pas. A vous de faire les bons choix !"
-        url: http://www.cnil.fr/linstitution/actualite/article/article/partager-votre-soiree-ou-pas-a-vous-de-faire-les-bons-choix/
+        url: https://www.cnil.fr/linstitution/actualite/article/article/partager-votre-soiree-ou-pas-a-vous-de-faire-les-bons-choix/
         authors:
             - CNIL
 

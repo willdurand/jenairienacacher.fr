@@ -1,7 +1,7 @@
 -
     title: "Je n'ai rien à cacher"
-    url: //framatube.org/media/je-nai-rien-a-cacher/embed_player
-    extra_url: http://ldn-fai.net/je-nai-rien-a-cacher/
+    url: //framatube.org/videos/embed/984f8ba3-65fb-428b-91be-0cc30cbc27e2
+    extra_url: https://ldn-fai.net/je-nai-rien-a-cacher/
     date_fr: 14 avril 2015
     authors:
         - Julien Vaubourg
@@ -17,8 +17,8 @@
 
 -
     title: "Si, vous avez quelque chose à cacher"
-    url: //framatube.org/media/si-vous-avez-quelque-chose-a-cacher/embed_player
-    extra_url: http://www.april.org/si-vous-avez-quelque-chose-cacher-conference-de-numendil-passage-en-seine-en-2013
+    url: //framatube.org/videos/embed/7464c9aa-d5f2-4da4-a8e9-5e3bfaf9f3b1
+    extra_url: https://www.april.org/si-vous-avez-quelque-chose-cacher-conference-de-numendil-passage-en-seine-en-2013
     date_fr: 21 juin 2013
     authors:
         - Numendil
@@ -31,11 +31,11 @@
         arrivés à tout ceci et, plus important encore, comment faire pour
         prendre pleinement conscience que **si... nous avons tous quelque chose à
         cacher**.
-        – [Transcription proposée par l'April](http://www.april.org/si-vous-avez-quelque-chose-cacher-conference-de-numendil-passage-en-seine-en-2013)
+        – [Transcription proposée par l'April](https://www.april.org/si-vous-avez-quelque-chose-cacher-conference-de-numendil-passage-en-seine-en-2013)
 
 -
     title: "♫ Rien à cacher"
-    url: //framatube.org/media/rien-a-cacher/embed_player
+    url: //framatube.org/videos/embed/46242da5-344c-49a1-b4cf-54d6f6210d34
     extra_url:
     date_fr: 06 février 2014
     authors:
@@ -47,21 +47,10 @@
         à craindre des surveillances de masse ? Réponse en chanson !
 
 -
-    title: "Je n'ai rien à cacher  Conversation entre 4 assos du libre"
-    url: //audio.april.org/ep/pod404-je-n-ai-rien-a-cacher
-    extra_url:
-    date_fr: septembre 2016
-    authors:
-        - April
-    abstract: >
-        Partage d’arguments pour répondre au fameux « je n’ai rien à cacher ».
-        – [Transcription proposée par l'April](https://www.april.org/je-n-ai-rien-cacher-conversation-entre-4-assos-du-libre)
-
--
     title: "Rien à cacher - Vie privée : un guide de survie en milieu hostile (repas familial, dîner entre amis...)"
     url: //data.passageenseine.org/2015/webm/PSES2015_rien-a-cacher.webm
     extra_url:
-    date_fr: juin 2015
+    date_fr: 21 juin 2015
     authors:
         - Laurent Chemla
     abstract: >
@@ -70,3 +59,14 @@
         et proposer un guide de survie en milieu hostile (repas de famille, par
         exemple) permettant la prise de conscience.
         – [Transcription proposée par l'April](https://www.april.org/rien-cacher-vie-privee-guide-de-survie-en-milieu-hostile-laurent-chemla-pses2015)
+
+-
+    title: "Je n'ai rien à cacher - Conversation entre 4 assos du libre (podcast)"
+    url:
+    extra_url: https://audio.april.org/ep/pod404-je-n-ai-rien-a-cacher/
+    date_fr: 05 septembre 2016
+    authors:
+        - April
+    abstract: >
+        Partage d’arguments pour répondre au fameux « je n’ai rien à cacher ».
+        – [Transcription proposée par l'April](https://www.april.org/je-n-ai-rien-cacher-conversation-entre-4-assos-du-libre)
