@@ -10,12 +10,18 @@
             {% if video.abstract %}{{ video.abstract|markdownify }}{% endif %}
 
             <p class="small">
+                {% if video.podcast %}
+                Ce podcast a été enregistré le {{ video.date_fr }}.
+                {% else %}
                 Cette vidéo a été enregistrée le {{ video.date_fr }}.
+                {% endif %}
                 {% if video.extra_url %}Vous trouverez plus d'informations en suivant <a href="{{ video.extra_url }}">ce lien</a>.{% endif %}
             </p>
         </div>
         <div class="col-md-5 text-center video">
+            {% if video.url %}
             <iframe src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
+            {% endif %}
         </div>
     </div>
 </li>
